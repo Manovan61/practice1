@@ -1,1 +1,2 @@
 this is sample2
+I am adding a new line to check if the same reflects in the sample2 file
